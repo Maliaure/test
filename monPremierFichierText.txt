@@ -1,1 +1,2 @@
-suite à mon premier commit, j'initie mon fichier.
+suite Ã  mon premier commit, j'initie mon fichier.
+Je fais une modification en ligne
